@@ -1,0 +1,15 @@
+doc/
+*-Ex.R
+*.html
+*.log
+*.names
+.Rapp.history
+.RData
+.Rhistory
+.Rproj.user
+.Rproj.user/
+uci_analysis.txt
+UCI HAR Dataset/
+vignettes/*.html
+vignettes/*.pdf
+*.zip
