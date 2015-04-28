@@ -26,7 +26,7 @@ The source data was processed (by `run_analysis.R`) as follows:
   and standard deviations by subject, activity and feature. This makes up the
   final analysis data set with fields described below.
 
-The `README.md` contains further information on how this data set was
+The [README.md](README.md) contains further information on how this data set was
 prepared.
 
 The analysis (`uci_analysis.txt`) data set contains the following fields:

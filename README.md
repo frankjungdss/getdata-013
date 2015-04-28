@@ -43,14 +43,14 @@ Files in repository
 
 Included in this repository are the following files:
 
-* `README.md` this document
-* `CodeBook.md` describes the variables of analysis data set
-* `run_analyis.R` creates the analysis data set
+* [README.md](README.md) this document
+* [CodeBook.md](CodeBook.md) describes the variables of analysis data set
+* [run_analysis.R](run_analysis.R) creates the analysis data set
 
 I have also included a helper script to download and unpack the UCI HAL data
 set archive:
 
-* `get_ucidata.R` download and unpack UCI HAL data archive from original source
+* [get_ucidata.R](get_ucidata.R) download and unpack UCI HAL data archive from original source
 
 
 Source UCI HAL data set
