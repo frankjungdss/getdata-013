@@ -147,7 +147,7 @@ data$activity <- factor(data$activity, activity_labels$V2)
 # melt from "wide" to "narrow" format
 # where: subject and activity are id variables
 # all the rest are feature measurements
-library(reshape2)
+require(reshape2)
 
 meltdata <- melt(data,
                  id.vars = c("subject", "activity"),
