@@ -1,3 +1,16 @@
+---
+title: "CodeBook"
+author: "Frank Jung"
+date: "20/05/2015"
+output:
+  pdf_document:
+    fig_caption: yes
+    fig_height: 5
+    fig_width: 7
+    latex_engine: xelatex
+    number_sections: yes
+---
+
 CodeBook
 ========
 
